@@ -24,7 +24,7 @@ Integrative project that brings together all the subjects at Senai Roberto Mange
 &nbsp;
 
 ## 🖥 &nbsp;Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBox-Integrador&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBox-Integrado) &nbsp;
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBoxIntr&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBoxInt) &nbsp;
 
 &nbsp;
 
