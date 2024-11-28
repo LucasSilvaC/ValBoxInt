@@ -18,19 +18,7 @@ Integrative project that brings together all the subjects at Senai Roberto Mange
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" width="50" height="50"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="50" height="50"/>
           
-          
-          
-            
 &nbsp;
 
 ## 🖥 &nbsp;Repository
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBoxIntr&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBoxInt) &nbsp;
-
-&nbsp;
-
-## 📊 &nbsp;Stats
-[![LucasSilvaC GitHub stats](https://github-readme-stats.vercel.app/api?username=LucasSilvaC&hide=contribs,prs&show_icons=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/github-readme-stats)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=LucasSilvaC&theme=dark&count_private=true&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=LucasSilvaC&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucasSilvaC&repo=ValBoxInt&bg_color=0d1116&title_color=ce09ec&text_color=a4aacb&icon_color=007ec6)](https://github.com/LucasSilvaC/ValBoxInt) &nbsp;
